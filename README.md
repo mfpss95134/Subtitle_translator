@@ -13,3 +13,8 @@
 - 一定要安裝ffmpeg，請參考官網說明安裝
 - https://ffmpeg.org/download.html
 <br>
+
+
+## Reference
+- https://crifan.github.io/media_process_ffmpeg/website/subtitle/extract/
+<br>
